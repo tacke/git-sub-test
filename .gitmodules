@@ -1,0 +1,3 @@
+[submodule "test-git-submodule"]
+	path = test-git-submodule
+	url = git@github.com:tacke/test-git-submodule.git
